@@ -1,12 +1,10 @@
 {
-  "admin": [
+  "keys": [
     {
-      "username": "matrix",
-      "password": "matrix",
+      "key": "AIM-XXXX-YYYY-ZZZZ",
       "expiry": "2026-01-01",
       "subscription": "aimkillmax",
-      "device_id": "",
-      "free_user": false
+      "device_id": ""
     }
   ]
 }
