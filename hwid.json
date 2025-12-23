@@ -1,0 +1,12 @@
+{
+  "admin": [
+    {
+      "username": "admin1",
+      "password": "$2a$12$HASH_HERE",
+      "expiry": "2026-12-31",
+      "subscription": "owner",
+      "device_id": "",
+      "free_user": false
+    }
+  ]
+}
