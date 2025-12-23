@@ -1,9 +1,9 @@
 {
   "admin": [
     {
-      "username": "user1",
-      "password": "$2a$12$xxxxxxxxxxxxxxxxxxxx",
-      "expiry": "2025-12-31",
+      "username": "matrix",
+      "password": "matrix",
+      "expiry": "2026-01-01",
       "subscription": "aimkillmax",
       "device_id": "",
       "free_user": false
